@@ -81,7 +81,7 @@ html {
 #nav > li:hover > a,
 #nav .subnav li:hover a {
   color: #000;
-  background-color: pink;
+  background-color: yellow;
 }
 #nav li:hover .subnav {
   display: block;
