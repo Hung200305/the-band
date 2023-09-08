@@ -80,7 +80,7 @@ html {
 }
 #nav > li:hover > a,
 #nav .subnav li:hover a {
-  color: #000;
+  color: #1f1c1c;
   background-color: yellow;
 }
 #nav li:hover .subnav {
